@@ -1,0 +1,1 @@
+vscode 自身markdown不显示 但是markdown preview enhanced插件可以显示，gitbook同样无法支持
